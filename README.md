@@ -10,7 +10,7 @@ An AI-powered academic viva voce examination simulator. Upload a research paper 
 - **RAG-Powered Q&A** — Uses Retrieval-Augmented Generation for context-aware questioning
 - **Viva Voce Simulation** — 5 rigorous questions testing conceptual, methodological, and critical understanding
 - **Real-time Evaluation** — Get scored (1-10) with detailed feedback on each answer
-- **Voice Input/Output** — Speak your answers and hear Profesor's questions (TTS/STT support)
+- **Voice Input/Output** — Speak your answers and hear Profesor's questions in **multiple languages** (TTS/STT support)
 - **Session Analytics** — Track your performance across multiple exam sessions
 - **Multiple LLM Providers** — Supports Together AI, OpenRouter, Groq, and Gemini
 
