@@ -2,7 +2,7 @@
 // Implements chunking, embeddings, and vector search for PDF-based Q&A
 // With rate limit handling
 
-const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY || 'AIzaSyAerW5Qkna9_cpbbuCbHyYhYCLUKd5bEe0';
+const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY || '';
 const EMBEDDING_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:embedContent';
 
 /**
