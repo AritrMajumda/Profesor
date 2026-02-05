@@ -4,6 +4,12 @@ An AI-powered academic viva voce examination simulator. Upload a research paper 
 
 ![Profesor](https://img.shields.io/badge/AI-Viva%20Examiner-blueviolet) ![React](https://img.shields.io/badge/React-19-61dafb) ![Vite](https://img.shields.io/badge/Vite-7-646cff)
 
+## 📸 Screenshots
+
+| Normal Theme | Profesor Theme (Money Heist) |
+|:---:|:---:|
+| ![Normal Theme](./screenshots/normal-theme.png) | ![Profesor Theme](./screenshots/profesor-theme.png) |
+
 ## ✨ Features
 
 - **PDF Upload & Processing** — Upload any research paper and Profesor will analyze it
