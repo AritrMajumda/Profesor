@@ -12,6 +12,7 @@ An AI-powered academic viva voce examination simulator. Upload a research paper 
 - **Real-time Evaluation** — Get scored (1-10) with detailed feedback on each answer
 - **Voice Input/Output** — Speak your answers and hear Profesor's questions in **multiple languages** (TTS/STT support)
 - **Session Analytics** — Track your performance across multiple exam sessions
+- **Dual Themes** — Choose between a **Normal** academic style or the **Profesor** theme inspired by the Money Heist character for a more engaging experience
 - **Multiple LLM Providers** — Supports Together AI, OpenRouter, Groq, and Gemini
 
 ## 🚀 Quick Start
